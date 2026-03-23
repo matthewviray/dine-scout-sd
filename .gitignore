@@ -1,0 +1,6 @@
+.env
+__pycahce__/
+*.pyc 
+.DS_Store
+airflow/logs/
+.venv/
